@@ -25,8 +25,8 @@ This project demonstrates how to convert natural language questions into SQL que
 
 ### 1. Clone the Repository
 ```bash
-git clone <[my repo](https://github.com/VisvaV/Natural-Language-to-SQL-Query-Generation-with-Gemini)>
-cd <[my repo](Natural-Language-to-SQL-Query-Generation-with-Gemini)>
+git clone [my repo](https://github.com/VisvaV/Natural-Language-to-SQL-Query-Generation-with-Gemini)
+cd [my repo](Natural-Language-to-SQL-Query-Generation-with-Gemini)
 ```
 
 ### 2. Install Dependencies
